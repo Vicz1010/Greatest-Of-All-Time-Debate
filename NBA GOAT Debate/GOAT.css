@@ -1,0 +1,24 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #3895D3;
+  color: #F5F2D0;
+  text-align: center;
+}
+
+p{
+  padding-left: 10%;
+  padding-right: 10%
+}
+
+form{
+  font-size: 1em;
+}
+
+#sub{
+  border-radius: 20%;
+  height: 30px;
+width: 100px;
+text-align: center;
+margin: auto;
+padding-top: 5px;
+}
